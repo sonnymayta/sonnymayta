@@ -7,5 +7,4 @@ Here are some technologies I work with:
 - JavaScript
 - TypeScript
 - HTML / CSS / Bootstrap
-- Kotlin / Flutter / Dart
 - MySql / SQL Server
