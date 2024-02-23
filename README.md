@@ -19,7 +19,6 @@ Me apasiona la programación y disfruto creando proyectos, experimentando, obser
 
 ![Static Badge](https://img.shields.io/badge/csharp-30363D?style=for-the-badge&logo=csharp)
 ![Static Badge](https://img.shields.io/badge/.net-30363D?style=for-the-badge&logo=dotnet)
-![Static Badge](https://img.shields.io/badge/asp.net-30363D?style=for-the-badge&logo=)
 ![Static Badge](https://img.shields.io/badge/angular-30363D?style=for-the-badge&logo=angular)
 ![Static Badge](https://img.shields.io/badge/javascript-30363D?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/typescript-30363D?style=for-the-badge&logo=typescript)
