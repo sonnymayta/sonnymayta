@@ -5,17 +5,17 @@
 Soy **ingeniero en sistemas** y me especializo como **desarrollador frontend**. 
 Me apasiona la programación y disfruto creando proyectos, experimentando, observando el funcionamiento de sistemas, buscar soluciones a los problemas y aplicar modificaciones para mejorarlos.
 
-### 🗣️ Aptitudes y habilidades:
+## 🗣️ Aptitudes y habilidades:
 - Comunicación
 - Trabajo en equipo
 - Adaptabilidad
 - Resolución de problemas
 
-### 🗣️ Idiomas:
+## 🗣️ Idiomas:
 - Español (Nativo)
 - Ingles (Intermedio)
 
-### 🖥️ Tecnologias:
+## 🖥️ Tecnologias:
 
 ![Static Badge](https://img.shields.io/badge/csharp-30363D?style=for-the-badge&logo=csharp)
 ![Static Badge](https://img.shields.io/badge/.net-30363D?style=for-the-badge&logo=dotnet)
@@ -32,9 +32,9 @@ Me apasiona la programación y disfruto creando proyectos, experimentando, obser
 ![Static Badge](https://img.shields.io/badge/github-30363D?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/gitlab-30363D?style=for-the-badge&logo=gitlab)
 
-### 🔥 Github estadisticas:
+## 🔥 Github estadisticas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymayta&layout=compact&theme=github_dark_dimmed&custom_title=Lenguajes%20más%20utilizados&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymayta&layout=compact&theme=github_dark_dimmed&custom_title=Lenguajes%20más%20utilizados&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
